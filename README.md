@@ -36,12 +36,16 @@
 
 - Crud Operations
   - Get All Users
+    
     <img width="844" alt="get_all" src="https://github.com/user-attachments/assets/06ec9827-6fb2-42f3-b300-83feb59c7e7a" />
   - Get user by email
+    
     <img width="843" alt="get_by_email" src="https://github.com/user-attachments/assets/bbd368c0-40f4-4334-9645-9f3d61031954" />
   - Put/Update
+    
     <img width="851" alt="put" src="https://github.com/user-attachments/assets/ded55efc-a2c6-4577-af03-f7d5e68f88ab" />
   - Delete user
+    
     <img width="879" alt="delete" src="https://github.com/user-attachments/assets/f493ce16-0d91-4a26-b290-f39f9c115840" />
 
     
